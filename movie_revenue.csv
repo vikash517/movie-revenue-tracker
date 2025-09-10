@@ -1,0 +1,37 @@
+Movie,Region,Genre,Language,ReleaseWeek,Revenue
+Avengers,North America,Action,English,1,10000000
+Avengers,North America,Action,English,2,8000000
+Avengers,Europe,Action,English,1,5000000
+Avengers,Europe,Action,English,2,4000000
+Avengers,Asia,Action,English,1,7000000
+Avengers,Asia,Action,English,2,6000000
+Frozen,North America,Animation,English,1,9000000
+Frozen,North America,Animation,English,2,7000000
+Frozen,Europe,Animation,English,1,6000000
+Frozen,Europe,Animation,English,2,5000000
+Frozen,Asia,Animation,English,1,4000000
+Frozen,Asia,Animation,English,2,3000000
+Parasite,Asia,Drama,Korean,1,8000000
+Parasite,Asia,Drama,Korean,2,7000000
+Parasite,Europe,Drama,Korean,1,3000000
+Parasite,Europe,Drama,Korean,2,2500000
+Parasite,North America,Drama,Korean,1,2000000
+Parasite,North America,Drama,Korean,2,1800000
+Inception,North America,Sci-Fi,English,1,8500000
+Inception,North America,Sci-Fi,English,2,7500000
+Inception,Europe,Sci-Fi,English,1,6000000
+Inception,Europe,Sci-Fi,English,2,5500000
+Inception,Asia,Sci-Fi,English,1,3000000
+Inception,Asia,Sci-Fi,English,2,2500000
+3 Idiots,Asia,Comedy,Hindi,1,9000000
+3 Idiots,Asia,Comedy,Hindi,2,8500000
+3 Idiots,Europe,Comedy,Hindi,1,2000000
+3 Idiots,Europe,Comedy,Hindi,2,1800000
+3 Idiots,North America,Comedy,Hindi,1,1500000
+3 Idiots,North America,Comedy,Hindi,2,1300000
+Spirited Away,Asia,Animation,Japanese,1,7000000
+Spirited Away,Asia,Animation,Japanese,2,6500000
+Spirited Away,Europe,Animation,Japanese,1,2500000
+Spirited Away,Europe,Animation,Japanese,2,2200000
+Spirited Away,North America,Animation,Japanese,1,1200000
+Spirited Away,North America,Animation,Japanese,2,1100000
