@@ -63,7 +63,7 @@ Access the live application: [Movie Revenue Tracker](https://github.com/vikash51
    - Revenue breakdown charts
    - Genre distribution
    - Market share analysis
-   - Performance metrics
+   - Performance metric
 
 ## Technology Stack 💻
 
