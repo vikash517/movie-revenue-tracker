@@ -15,7 +15,7 @@ A Streamlit-based web application that helps analyze and visualize movie revenue
   - Genre-wise analysis
 - **Interactive Dashboard**:
   - Filter by genre, region, and language
-  - Dynamic visualizations
+  - Dynamic visualization
   - Export data to CSV
 
 ## Live Demo 🚀
