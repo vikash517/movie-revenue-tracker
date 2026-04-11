@@ -18,7 +18,7 @@ A Streamlit-based web application that helps analyze and visualize movie revenue
   - Dynamic visualization
   - Export data to CSV
 
-## Live Demo 🚀
+## Live Demo 
 
 Access the live application: [Movie Revenue Tracker](https://github.com/vikash517/movie-revenue-tracker)
 
